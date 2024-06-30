@@ -1,3 +1,8 @@
+// == CS400 Spring 2024 File Header Information == Main
+// Name: Aradhya Verma
+// Email: verma48@wisc.edu
+// Lecturer: Dr. Jiazhen Zhou
+// CS Login: aradhyav
 /*
  * Test the use of the Color method
  */
